@@ -10,6 +10,8 @@ $hola="string";
 
 echo $hola;
 
+mas cosas que hacer;
+
 ?>
 </body>
 
